@@ -1,3 +1,0 @@
-this is first file hello.txt
-
-this is first file hello.txt
