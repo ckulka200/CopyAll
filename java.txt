@@ -1,5 +1,0 @@
-Header - java.txt
-
-start 
-
-end
